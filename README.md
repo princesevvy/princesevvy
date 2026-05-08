@@ -5,6 +5,7 @@
 
 <img src="https://github.com/princesevvy/princesevvy/blob/main/zuochangjingbanner.png">
 
-
+<img width="300" src="https://github.com/princesevvy/princesevvy/blob/main/Screenshot%202026-05-08%20121805.png">
+<p> hai ed i love u soooo much </p>
 
 </div>
