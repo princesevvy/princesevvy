@@ -3,7 +3,7 @@
 
 <p> $\color{#a1a1a1}{\textsf{iwcuf}}$ </p>
 
-<p> <a href="https://princesevvy.straw.page/>strawpage"> strawpage </a> </p>
+<p> <a href="https://princesevvy.straw.page/"> strawpage </a> </p>
 
 <img src="https://github.com/princesevvy/princesevvy/blob/main/zuochangjingbanner.png">
 
