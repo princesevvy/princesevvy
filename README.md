@@ -4,6 +4,7 @@
 <p> $\color{#a1a1a1}{\textsf{iwcuf}}$ </p>
 
 <p> <a href="https://princesevvy.straw.page/"> sev's straw </a>‎ ‎  <a href="https://prongslethp.straw.page/"> hadrian's straw </a> </p>
+dni if u mischaracterize snape, i cannot stand it
 
 <img src="https://github.com/princesevvy/princesevvy/blob/main/zuochangjingbanner.png">
 
